@@ -5,6 +5,7 @@ datadir = 'F:/Data/Project_anqing/'
 
 # simulation data file
 mcipfile    = datadir + month + '/' + month + '_met.nc'
+presrhfile  = datadir + month + '/' + month + '_presrh.nc'
 cmaqfile    = datadir + month + '/' + month + '_chem.nc'
 pa_O3file   = datadir + month + '/' + month + '_PA_O3-1.nc'
 pa_NOxfile  = datadir + month + '/' + month + '_PA_NOx-1.nc'
