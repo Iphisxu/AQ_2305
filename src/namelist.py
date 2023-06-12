@@ -24,6 +24,7 @@ obsurban = datadir + month + '/' + 'obsdata/urban.xlsx'
 # shapefile
 shpall   = datadir + 'shapefile/Anqing/Anqing.shp'
 shpurban = datadir + 'shapefile/Anqing_urban/urban.shp'
+shprural = datadir + 'shapefile/Anqing_rural/rural.shp'
 shpmap   = datadir + 'shapefile/Anqing_district/anqing_district.shp'
 
 # time range
